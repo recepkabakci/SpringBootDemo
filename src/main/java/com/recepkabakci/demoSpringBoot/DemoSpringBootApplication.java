@@ -1,4 +1,4 @@
-package com.javacourse.demoSpringBoot;
+package com.recepkabakci.demoSpringBoot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
